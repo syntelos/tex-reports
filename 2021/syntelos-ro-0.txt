@@ -1,0 +1,8 @@
+./2020/syntelos-rot_intro-20201212.pdf
+./2020/syntelos-rot_topo-20201213.pdf
+./2020/syntelos-rot_appl-20201214.pdf
+./2020/syntelos-rot_cont-20201215.pdf
+./2020/syntelos-rot_sec-20201217.pdf
+./2020/syntelos-rot_integ-20201218.pdf
+./2021/syntelos-rov_intro-20210111.pdf
+./2021/syntelos-rov_dist-20210119.pdf
