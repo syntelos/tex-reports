@@ -1,0 +1,22 @@
+﻿syntelos
+Thursday, 27 October 2022
+class, identity, symbol, & abstraction
+The design of datacode languages follows the datacode principle.  Trivial to parse.  
+
+
+This design program is a minimalism.  Minimal syntactic classes.  Minimal semantic complexity.  Limited grammatical recursion.  By constraining syntactic and semantic freedom to symbolic logic, problem solution freedom is maximized.
+
+
+The datacode artifact retains archival value by syntactic minimalism.  The datacode machinery retains representational value by semantic minimalism.  Meticulous abstraction maps identity to class.  
+________________
+
+
+/syntelos /science /computing /machinery: class, identity, symbol, & abstraction
+John Pritchard, @syntelos
+
+
+https://docs.google.com/document/d/10LwCpfXeZVK-mthQiKtqtzwQMR8YEeR4UDIwNyNej1Y/edit?usp=drivesdk
+
+
+This work is licensed under a Creative Commons Attribution- NonCommercial- ShareAlike 4.0 International License
+http://creativecommons.org/licenses/by-nc-sa/4.0/
